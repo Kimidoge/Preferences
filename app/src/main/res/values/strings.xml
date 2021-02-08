@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">persistent</string>
+    <string name="na">input your message here</string>
+    <string name="inputString">Input your message here</string>
+    <string name="outputString">Your output will be displayed here</string>
+    <string name="savePref">Save Preferences</string>
+    <string name="loadPref">Load Preferences</string>
+    <string name="loadFile">Load From File</string>
+    <string name="saveFile">save to File</string>
+    <string name="com.example.persistent.preferenceString">preferenceString</string>
+
+</resources>
